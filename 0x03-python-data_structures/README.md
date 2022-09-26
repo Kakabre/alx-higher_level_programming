@@ -15,6 +15,7 @@ What is a sequence
 What is tuple packing
 What is sequence unpacking
 What is the del statement and how to use it
+
 Copyright - Plagiarism
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
@@ -30,6 +31,7 @@ A README.md file, at the root of the folder of the project, is mandatory
 Your code should use the pycodestyle (version 2.8.*)
 All your files must be executable
 The length of your files will be tested using wc
+
 C
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
